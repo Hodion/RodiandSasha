@@ -1,4 +1,4 @@
- drop database beautysaloon; 
+ 
 create database beautysaloon;
 use beautysaloon; 
 
